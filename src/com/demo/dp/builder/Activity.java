@@ -1,4 +1,4 @@
-package com.demo.dp.factory.builder;
+package com.demo.dp.builder;
 
 public final class Activity {
 	

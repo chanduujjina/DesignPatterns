@@ -1,4 +1,4 @@
-package com.demo.dp.singleton.demo;
+package com.demo.dp.singleton;
 
 public class LazySingleton {
 	

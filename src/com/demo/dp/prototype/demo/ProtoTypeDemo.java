@@ -1,4 +1,6 @@
-package com.demo.dp.prototype;
+package com.demo.dp.prototype.demo;
+
+import com.demo.dp.prototype.Employee;
 
 public class ProtoTypeDemo {
 

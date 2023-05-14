@@ -1,5 +1,7 @@
 package com.demo.dp.singleton.demo;
 
+import com.demo.dp.singleton.EarlySingleton;
+
 public class SingleDPDemo {
 
 	public static void main(String[] args) {

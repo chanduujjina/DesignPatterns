@@ -1,6 +1,6 @@
-package com.demo.dp.factory.builder.demo;
+package com.demo.dp.builder.demo;
 
-import com.demo.dp.factory.builder.Activity;
+import com.demo.dp.builder.Activity;
 
 public class BuilderDpDemo {
 
